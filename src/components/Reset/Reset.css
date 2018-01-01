@@ -1,0 +1,14 @@
+.reset-outer-div {
+  margin: auto;
+  width: 1200px;
+}
+
+.reset-button {
+  background-color: rgb(255, 238, 204) !important;
+  color: black !important;
+  border: 1px solid black !important;
+  font-weight: 400 !important;
+  border-radius: 1px !important;
+  letter-spacing: 1.5px;
+  box-shadow: 1px 1px 1px black;
+}
